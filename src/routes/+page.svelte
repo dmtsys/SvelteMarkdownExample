@@ -1,5 +1,4 @@
 <script>
-
   import eulerLogo from '$lib/images/euler_logo.svg';
 
   import { marked } from "marked";
@@ -9,11 +8,3 @@
 </script>
 
 {@html marked(someMarkdown)}
-
-<style>
-
-h1 {
-  color: green;
-}
-
-</style>
