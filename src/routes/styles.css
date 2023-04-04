@@ -38,5 +38,5 @@ body {
 }
 
 h1 {
-  color: green;
+  color: var(--dmt-cyan);
 }
